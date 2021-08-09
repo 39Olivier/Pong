@@ -1,4 +1,4 @@
-# Débuté le 09/08/2021 Olivier Fontaine, voir les To Do !
+# Débuté le 09/08/2021 Olivier Fontaine, voir les ToDo !
 #Git + Gitub !
 
 
@@ -71,7 +71,8 @@ while True:
 
 # move the ball
 ball.setx(ball.xcor() + ball.dx)
-ball.sety(ball.ycor() + ball.dy)  # todo https://youtu.be/C6jJg9Zan7w?t=1028
+ball.sety(ball.ycor() + ball.dy)  # todo 1 https://youtu.be/C6jJg9Zan7w?t=1028  (CTRL+click pour ouvrir le lien !
 
 ball.sety(ball.ycor() + ball.)
 
+#todo 2
