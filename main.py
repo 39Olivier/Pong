@@ -1,5 +1,5 @@
-# Débuté le 09/08/2021 Olivier Fontaine
-#Git + Gitub !
+# https://github.com/39Olivier/Pong
+# https://youtu.be/C6jJg9Zan7w
 
 import turtle
 import winsound
